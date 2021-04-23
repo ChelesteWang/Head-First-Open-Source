@@ -6,6 +6,10 @@ Head-First-Open-Source
 Event Hosted By XinYuan Wang 
 Microsoft Learn Student Ambassador 
 
+Finish All Practice You will get a certificate of MLSA activity
+
+![Head First Open Source.jpg](https://i.loli.net/2021/04/23/vXRC9KNiEnfPe26.jpg)
+
 # Todo
 
 1. 注册 github or gitee 账户（国内使用github可能有些问题，使用gitee速度刚快，github资源更丰富）
